@@ -1,0 +1,12 @@
+{
+  "name": "NGS Test Project",
+  "description": "This is a test task. Have a nice day!",
+  "autoload": {
+    "psr-4": {
+      "vgrigoryev\\": "./"
+    }
+  },
+  "require": {
+    "jacwright/restserver": "dev-master"
+  }
+}
